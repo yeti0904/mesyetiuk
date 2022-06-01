@@ -1,6 +1,6 @@
 body {
-	background-color: #2E3440;
-	color: #D8DEE9;
+	background-color: #282828;
+	color: #ebdbb2;
 	font-family: sans-serif;
 }
 
@@ -8,16 +8,16 @@ a {
 	text-decoration: none;
 	margin: 5px;
 	border-radius: 15px;
-	color: #5E81AC;
+	color: #504945;
 }
 
 button {
-	background-color: #2E3440;
+	background-color: #3C3836;
 	border-style: solid;
-	border-color: #D8DEE9;
+	border-color: #504945;
 	border-radius: 5px;
 	font-size: 15px;
-	color: #D8DEE9;
+	color: #ebdbb2;
 	cursor: pointer;
 	padding: 5px;
 }
@@ -43,9 +43,9 @@ button {
 	width: 25%;
 	min-height: 100vh;
 	padding: 10px;
-	border-color: #D8DEE9;
+	border-color: #504945;
 	border-style: solid;
-	background-color: #3B4252;
+	background-color: #3C3836;
 	border-radius: 30px;
 }
 
@@ -55,9 +55,9 @@ button {
 	min-height: 100vh;
 	margin-left: 10px;
 	padding: 10px;
-	border-color: #D8DEE9;
+	border-color: #504945;
 	border-style: solid;
-	background-color: #3B4252;
+	background-color: #3C3836;
 	border-radius: 30px;
 }
 
